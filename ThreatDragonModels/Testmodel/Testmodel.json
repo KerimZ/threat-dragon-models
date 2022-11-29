@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "title": "Testmodel",
+    "owner": "testuser",
+    "description": "this is test"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "testcontributor"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "testdiagra",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
+    "reviewer": "testrevierr"
+  }
+}
